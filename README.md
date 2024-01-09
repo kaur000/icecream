@@ -1,2 +1,2 @@
 # icecream
-create an ice scream order from 
+create an ice cream order from 
